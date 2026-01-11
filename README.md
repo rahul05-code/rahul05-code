@@ -1,5 +1,11 @@
 # 💫 About Me:
-React , node.js,express.js,AI-ML 
+My name is Rahul Kanzariya, and I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Engineering from RK University. I have successfully completed my Diploma in Information Technology Engineering from L.E. College (Diploma).
+
+I am a passionate and dedicated developer with hands-on experience in full-stack web and mobile application development. At present, I am working on the MERN stack, which includes React.js, Node.js, Express.js, and MongoDB. I also have practical knowledge of PostgreSQL for database management.
+
+In addition to web development, I have strong experience in mobile application development using the Flutter framework. I am also proficient in PHP-based web development and have worked on multiple projects involving backend logic and database integration.
+
+I am continuously learning new technologies and enjoy building efficient, scalable, and user-friendly applications.
 
 
 ## 🌐 Socials:
